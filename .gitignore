@@ -1,5 +1,8 @@
 outputfiles/
 inpufiles/
+testT2/
+*.nii
+*.nii.gz
 *.jl.cov
 *.jl.*.cov
 *.jl.mem
