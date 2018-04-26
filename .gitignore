@@ -1,5 +1,5 @@
 outputfiles/
-inpufiles/
+inputfiles/
 testT2/
 *.nii
 *.nii.gz
